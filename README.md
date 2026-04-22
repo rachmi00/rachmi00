@@ -1,21 +1,19 @@
-## 👋 Hi there!
+## 👋 Hello!
 
-# 🎨 Rachel Mifor
+# 🎨 I'm Rachel Mifor
 
-### Front-End Developer | Data Analyst | 3D Creative | Tech-for-Good Enthusiast  
+### Data Analyst | Front-End Developer | 3D Creative 
 _Based in Buea, Cameroon 🇨🇲_
 
 ---
 
 ## 🚀 About Me
 
-Hey! I'm Rachel — I blend **tech, art, and data** to build beautiful, meaningful things. Whether it's recreating a sleek UI, analyzing data for social impact, or sculpting 3D models just for fun, I love projects that **inspire creativity and drive change**.
+I blend **tech, art, and data** to build beautiful, meaningful things. Whether it's recreating a UI, analyzing data for social impact, or sculpting 3D models just for fun, I love projects that **inspire creativity and drive change**.
 
-- 🎯 I’m passionate about **data storytelling** 
-- 🧠 Currently working on projects that connect **data science** with **real-world social impact**, like health tech and community-driven tools  
-- 🖌️ In my spare time, I explore **3D modeling, pixel art**, and game design  
-- 🛠️ I've repped my region at the **Cameroon International Tech Summit**
-
+- I love **data storytelling** 
+- Currently working on projects that connect **data science** with **real-world social impact**, like health tech and community-driven tools  
+- In my spare time, I explore **3D modeling, pixel art**, and game design  
 ---
 
 ## 💻 Tech Stack
@@ -30,8 +28,7 @@ Hey! I'm Rachel — I blend **tech, art, and data** to build beautiful, meaningf
 
 - 🤖 Machine Learning (for health prediction + personalized experiences)  
 - 🎮 Game development with a focus on **pixel art**, and **tile-based engines**  
-- 📊 Advanced data visualizations and interactive dashboards  
-- 🧰 Building a portfolio that showcases the magic of merging **code + art**
+- 📊 Advanced data visualizations and interactive dashboards
 
 ---
 
@@ -46,12 +43,9 @@ Hey! I'm Rachel — I blend **tech, art, and data** to build beautiful, meaningf
 
 - 🧩 I love solving logic puzzles and writing comic panels in my free time  
 - ✍️ I write, draw, and create 3d models in Blender 
-- 🔥 Won **2nd place** at a regional tech competition—next stop: the national finals!  
-- 🪄 Secret power: Turning complex data into visuals that *actually make sense*
-
 ---
 
 ## ⭐ From [rachmi00](https://github.com/rachmi00)
 
-Thanks for stopping by! I’m always up for a collab, especially if it involves building something cool, visual, and meaningful ✨
+Thanks for stopping by! I’m always up for a collab.
 

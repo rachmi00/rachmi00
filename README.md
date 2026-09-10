@@ -1,13 +1,13 @@
 ## 👋 Hello!
 
-# 🎨 I'm Rachel Mifor
+# I'm Rachel Mifor
 
-### Data Analyst | Front-End Developer | 3D Creative 
+### Software Engineer and Data Analyst
 _Based in Buea, Cameroon 🇨🇲_
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I blend **tech, art, and data** to build beautiful, meaningful things. Whether it's recreating a UI, analyzing data for social impact, or sculpting 3D models just for fun, I love projects that **inspire creativity and drive change**.
 
@@ -18,17 +18,12 @@ I blend **tech, art, and data** to build beautiful, meaningful things. Whether i
 
 ## 💻 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Python  
+- **Languages:** HTML, CSS, JavaScript, TypeScripyt, Python, SQL, GD Script 
 - **Frameworks & Libraries:** React, Next.js, Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools & Tech:** Git & GitHub, Firebase, VS Code, Blender, Canva, Excel, SQL workbench, LibreSprite 
 
 ---
 
-## 🌱 Currently Exploring
-
-- 🤖 Machine Learning (for health prediction + personalized experiences)  
-- 🎮 Game development with a focus on **pixel art**, and **tile-based engines**  
-- 📊 Advanced data visualizations and interactive dashboards
 
 ---
 
